@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594104058424",
+    "project_id": "we-gro",
+    "storage_bucket": "we-gro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594104058424:android:7e774a27e1044b39779ccd",
+        "android_client_info": {
+          "package_name": "com.example.wegro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlKWVkYTFia5caQ5qHtBhiDuMYAX9extE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
